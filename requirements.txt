@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.2
+kafka-python==2.0.2
+
+# Testing
+pytest==8.3.2
+httpx==0.27.0
+
+# Optional: Production NLP upgrade
+# transformers==4.46.0
+# torch==2.5.0
